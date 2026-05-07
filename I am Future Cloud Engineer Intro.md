@@ -2,7 +2,6 @@
 ## Role, Responsibilities & Day-to-Day Life
 
 > **CloudDevOpsHub | Mentor: Vikas Ratnawat**  
-> Microsoft MVP | Ex-Amazon | Microsoft | Google | PwC  
 > 🔗 [linkedin.com/in/vikasratnawat](https://www.linkedin.com/in/vikasratnawat/) | 🌐 [devopswithvikas.com](https://devopswithvikas.com)
 
 ---
