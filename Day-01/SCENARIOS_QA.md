@@ -536,7 +536,7 @@ My favorite scenario today:
 This is the kind of preparation that makes the difference between
 'I know AWS' and 'I can DO AWS in production.' 🎯
 
-Attending AWS Cohort-6 by @Vikas Ratnawat | @CloudDevOpsHub 🔥
+Attending AWS Cohort by @Vikas Ratnawat | @CloudDevOpsHub 🔥
 #AWSCohortChallenge #10Days10AWSTasks #CloudDevOpsHubCommunity
 #VikasRatnawat #AWS #CloudEngineer #InterviewReady
 ```
