@@ -5,7 +5,7 @@
 
 ---
 
-## 🎬 These Scenarios Were Discussed in the Day's Recording
+## 🎬 These Scenarios can be discussed in a real-time interview
 
 ```
 📺 Watch the session first: https://devopswithvikas.com/eud/bookings
