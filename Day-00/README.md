@@ -208,7 +208,7 @@ Here's what I'm about to build in the next 10 days:
 
 This challenge is part of the AWS Cloud Cohort-6 by 
 @Vikas Ratnawat | @CloudDevOpsHub Community
-— India's Largest Cloud & DevOps Community (58K+ Members)
+— India's Largest Cloud & DevOps Community (58,000+ FB Group + 52,000 WhatsApp Member's + 26,000 Insta + 13,000 YouTube )
 
 If you're also on this journey — Drop a 🙋 in the comments!
 Let's hold each other accountable 💪
