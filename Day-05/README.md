@@ -1,6 +1,6 @@
 # ☁️ Day 5 — AWS S3 Storage Classes & RDS Overview
 
-> **Cohort:** AWS Cloud Cohort-6 by CloudDevOpsHub
+> **Cohort:** AWS Cloud Cohort by CloudDevOpsHub Community
 
 ---
 
