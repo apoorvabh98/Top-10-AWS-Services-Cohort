@@ -173,7 +173,7 @@ Cloud = Pay only for what you use. Scale in seconds. No hardware headache!
 This is just Day 1 — and I already have a live server running in the cloud! 🔥
 
 Attending the 10-Day AWS Cohort by:
-👨‍💻 @Vikas Ratnawat (Ex-Amazon | Microsoft | Google | Microsoft MVP)
+👨‍💻 @Vikas Ratnawat ( PWC Ex Microsoft | Microsoft MVP)
 🌐 @CloudDevOpsHub Community — India's Largest Cloud & DevOps Community (58K+ Members)
 🔗 https://linkedin.com/in/vikasratnawat/
 
