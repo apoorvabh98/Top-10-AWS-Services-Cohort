@@ -1,11 +1,11 @@
 # 🔥 Day 1 — Real-World Scenario Q&A: AWS Introduction & EC2 Basics
 
-> **CloudDevOpsHub Cohort-6 | Mentor: Vikas Ratnawat**  
+> **CloudDevOpsHub AWS Cohort | Mentor: Vikas Ratnawat**  
 > 🔗 [linkedin.com/in/vikasratnawat](https://www.linkedin.com/in/vikasratnawat/) | [clouddevopshub](https://www.linkedin.com/in/clouddevopshub/)
 
 ---
 
-## 🎬 These Scenarios Were Discussed in the Day's Recording
+## 🎬 These Scenarios can be discussed in a real-time interview
 
 ```
 📺 Watch the session first: https://devopswithvikas.com/eud/bookings
