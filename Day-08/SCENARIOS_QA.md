@@ -1,6 +1,6 @@
 # 🔥 Day 8 — Real-World Scenario Q&A: AWS VPC Overview
 
-> **CloudDevOpsHub Cohort-6 | Mentor: Vikas Ratnawat**  
+> **AWS Cloud Cohort by CloudDevOpsHub Community**  
 > 🔗 [linkedin.com/in/vikasratnawat](https://www.linkedin.com/in/vikasratnawat/) | [clouddevopshub](https://www.linkedin.com/in/clouddevopshub/)
 
 ---
