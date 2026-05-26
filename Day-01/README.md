@@ -166,6 +166,10 @@ What I did today:
 ✅ Explored AWS Global Infrastructure (Regions & Availability Zones)
 ✅ Launched my First EC2 Instance on AWS!
 
+
+
+
+
 Key Learning 💡:
 Traditional IT = You buy servers, manage them, pay even when idle.
 Cloud = Pay only for what you use. Scale in seconds. No hardware headache!
