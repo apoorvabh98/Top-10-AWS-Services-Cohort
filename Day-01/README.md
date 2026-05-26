@@ -134,8 +134,9 @@ Screenshot it and post on LinkedIn!
 - [ ] EC2 Instance details page
 
 ---
-
-
+![alt text](<Screenshot (248).png>)
+![alt text](image.png)
+![alt text](image-1.png)
 ## 🔗 Resources
 
 - [AWS Free Tier](https://aws.amazon.com/free)
