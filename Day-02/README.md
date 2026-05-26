@@ -38,6 +38,9 @@ Step 7: Connect via RDP (Remote Desktop Protocol)
 
 > 💡 **Pro Tip:** In interviews, always mention RDP = port 3389 (Windows), SSH = port 22 (Linux)
 
+![alt text](<Screenshot (249).png>)
+
+
 ---
 
 ### ✔ Practical 2: Nginx Web Server on Linux EC2 via MobaXterm
@@ -101,6 +104,14 @@ Step 7: Access via ALB DNS → Traffic splits between 2 servers!
 ```
 
 > 💡 **Real World Use:** Every big company (Amazon, Flipkart, Zomato) uses ALB to handle millions of requests. One server dies → ALB routes to healthy servers automatically!
+
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+
+![alt text](<Screenshot (253).png>)
 
 ---
 
