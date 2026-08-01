@@ -118,6 +118,10 @@ Host your **resume/portfolio as a live website on AWS S3** — for free! This is
 - [ ] index.html uploaded
 - [ ] Live website URL from S3
 - [ ] Resume visible in browser via S3 URL
+URL - http://apoorva-resume.s3-website.ap-south-1.amazonaws.com/
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6c2033a6-432f-4324-9107-9f9632c9ce55" />
+
 
 ---
 
