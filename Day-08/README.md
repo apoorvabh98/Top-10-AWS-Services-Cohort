@@ -150,6 +150,9 @@ Upload the diagram to LinkedIn — architecture diagrams get HIGH engagement!
 - [ ] Security group rules screenshot
 - [ ] Architecture diagram (bonus)
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/67fb7cce-462b-4ea2-816d-12afa5ce63e8" />
+
+
 ---
 
 
