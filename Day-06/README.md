@@ -153,6 +153,14 @@ SELECT project_name, tech_used FROM projects;
 - [ ] CREATE TABLE command executed
 - [ ] SELECT query showing your data
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f0470c64-ac1f-4d5e-9876-7bab2cb53862" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/869ce1dd-a39d-4509-81dd-faae9c1e8e40" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41be2bd1-0b42-4bd4-8854-dfc5e3a2961b" />
+
+<img width="799" height="367" alt="image" src="https://github.com/user-attachments/assets/62049100-779a-473e-aa03-ed5f55a4a209" />
+
 ---
 
 
