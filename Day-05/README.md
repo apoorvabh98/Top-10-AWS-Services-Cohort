@@ -97,6 +97,14 @@ Solution: S3 Lifecycle Rules!
 - [ ] Multiple versions of a file visible
 - [ ] Storage class configuration visible
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3ada2000-23d2-458e-bba6-7d3aaec24dcc" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/714afd52-d4fb-47b1-8c9d-a3ff468b2d2c" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/78470f9e-a7d9-4f32-bde7-5d00d1f5fe08" />
+
 ---
 
 
