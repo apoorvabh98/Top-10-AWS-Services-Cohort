@@ -67,8 +67,7 @@ Access Private EC2:
 → SSH to Bastion (public IP)
 → From Bastion, SSH to Private EC2 (private IP 10.10.2.x)
 ```
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06d65cb6-9e57-46fb-af35-398d14720c1e" />
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/95052be4-cdf3-4668-99e9-6c38961ef261" />
 
 ---
 
@@ -157,6 +156,10 @@ Bonus: Create VPC Peering between 2 VPCs
 - [ ] SSH session inside private EC2 via Bastion
 - [ ] VPC Peering connection in "Active" state (bonus)
 - [ ] Route tables showing peering routes (bonus)
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4eb67900-a5fb-4137-a7ce-0fe6f10e0841" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7bf3d60f-392b-464f-acf7-0def3f1f7c09" />
 
 ---
 
