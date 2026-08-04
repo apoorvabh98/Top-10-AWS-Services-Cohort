@@ -161,6 +161,13 @@ Bonus: Create VPC Peering between 2 VPCs
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7bf3d60f-392b-464f-acf7-0def3f1f7c09" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/494332dd-b21f-447b-bf02-4f7b9f2964c8" />
+
+
+<img width="1366" height="577" alt="image" src="https://github.com/user-attachments/assets/a1734e80-d66a-48ab-81bd-081b9e897358" />
+
+<img width="1303" height="554" alt="image" src="https://github.com/user-attachments/assets/3770d99b-9836-432a-8b7f-c825d1f4ff7f" />
+
 ---
 
 
