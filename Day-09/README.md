@@ -67,6 +67,8 @@ Access Private EC2:
 → SSH to Bastion (public IP)
 → From Bastion, SSH to Private EC2 (private IP 10.10.2.x)
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06d65cb6-9e57-46fb-af35-398d14720c1e" />
+
 
 ---
 
