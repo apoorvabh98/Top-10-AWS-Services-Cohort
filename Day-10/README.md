@@ -52,14 +52,12 @@ stress --cpu 4 --timeout 60s
 # Check email — ALARM notification will arrive!
 # When stress ends → OK notification comes back!
 
+```
 <img width="1366" height="768" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/d4e3eeaf-29c8-4cb5-a074-9324b3e21203" />
 
 <img width="1366" height="768" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/3ab50a3c-87d7-4c4f-b050-019620ad93a8" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/76274847-ca19-4f10-b6e7-66174cb578be" />
-
-```
-
 ---
 
 ### ✔ Practical 10B: AWS Budget Alarm ₹100
