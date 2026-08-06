@@ -75,6 +75,7 @@ Step 5: Alerts:
 Step 6: Email → your@email.com
 Step 7: Create Budget ✅
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dcadaa86-9a39-4806-8eda-4da2bbec80ce" />
 
 > 💡 **FinOps Tip:** Every cloud company sets budget alerts. This practice is called Financial Operations (FinOps) — a growing role in cloud! You now know how to do it.
 
@@ -91,6 +92,7 @@ Step 3: Add widgets:
   → Billing Estimate (Number widget)
 Step 4: Save Dashboard
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/43be7d91-0d87-471e-ab95-83c8b8e40eff" />
 
 > 📸 Screenshot this dashboard — it looks great as a portfolio proof!
 
